@@ -1,0 +1,1 @@
+Olá, esse é um projeto de atividades sobre lógica e JavaScript 
